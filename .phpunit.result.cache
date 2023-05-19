@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Feature\\TaskTest::test_can_view_tasks":3,"Tests\\Feature\\TaskTest::test_add_ata":5,"Tests\\Feature\\TaskTest::test_create_task":4},"times":{"Tests\\Unit\\ExampleTest::test_example":0.003,"Tests\\Feature\\TaskTest::test_can_view_tasks":0.043,"Tests\\Feature\\TaskTest::test_add_ata":2.569,"Tests\\Feature\\TaskTest::test_create_task":0.038}}
